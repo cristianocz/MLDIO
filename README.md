@@ -1,2 +1,2 @@
 # MLDIO
-Projeto de treinamento do Machina Learning Azure
+Projeto de treinamento do Machine Learning Azure
