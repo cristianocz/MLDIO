@@ -1,0 +1,26 @@
+{
+    "id": "/subscriptions//resourceGroups/cris-projeto-ML-um/providers/Microsoft.Search/searchServices/projeto-chat-pesquisa",
+    "name": "projeto-chat-pesquisa",
+    "type": "Microsoft.Search/searchServices",
+    "location": "East US",
+    "tags": {},
+    "properties": {
+        "replicaCount": 1,
+        "partitionCount": 1,
+        "status": "running",
+        "statusDetails": "",
+        "provisioningState": "succeeded",
+        "hostingMode": "default",
+        "publicNetworkAccess": "Enabled",
+        "networkRuleSet": {
+            "ipRules": [],
+            "bypass": "None"
+        },
+        "privateEndpointConnections": [],
+        "sharedPrivateLinkResources": []
+    },
+    "sku": {
+        "name": "basic"
+    },
+    "apiVersion": "2020-08-01"
+}
